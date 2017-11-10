@@ -1,0 +1,1 @@
+"use strict";function _interopRequireDefault(e){return e&&e.__esModule?e:{default:e}}var _hello=require("./hello"),_hello2=_interopRequireDefault(_hello);(0,_hello2.default)("Simple");

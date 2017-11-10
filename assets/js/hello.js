@@ -1,0 +1,1 @@
+"use strict";function hello(e){console.log("Hello "+e)}Object.defineProperty(exports,"__esModule",{value:!0}),exports.default=hello;
